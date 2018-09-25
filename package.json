@@ -1,0 +1,14 @@
+{
+  "name": "dns-over-https-server",
+  "version": "1.0.0",
+  "description": "A proxy server which convert DNS protocal to DNS over HTTPS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antknt47",
+  "license": "GPL",
+  "dependencies": {
+    "dnsd": "^0.9.6"
+  }
+}
