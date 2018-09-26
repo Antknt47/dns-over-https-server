@@ -1,6 +1,6 @@
 {
   "name": "dns-over-https-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A proxy server which convert DNS protocal to DNS over HTTPS",
   "main": "index.js",
   "scripts": {
